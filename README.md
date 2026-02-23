@@ -20,3 +20,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec229950-1546-4407-abb3-203cce4eb125" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf3d18fb-15b8-4b19-b8a6-8c7b20824c7f" />
+
+### EKSPERIMEN 3: Count Rebuilds
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d231cbb-c7cc-4f3d-bb86-a0f0e41486eb" />
+
+<img width="656" height="461" alt="image" src="https://github.com/user-attachments/assets/2e969d11-c386-40f6-9116-7e456edbff08" />
