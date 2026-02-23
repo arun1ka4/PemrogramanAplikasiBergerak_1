@@ -10,3 +10,5 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/461cd093-6b03-45cb-9aad-23ba5c5e6c12" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0a36aa0-27af-469a-8da3-175afc7f143e" />
+
+### PART 2: setState dan Keterbatasannya
