@@ -26,10 +26,10 @@
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6d231cbb-c7cc-4f3d-bb86-a0f0e41486eb" />
 
-![Uploading image.png…]()
-
-
 <img width="656" height="461" alt="image" src="https://github.com/user-attachments/assets/2e969d11-c386-40f6-9116-7e456edbff08" />
 
 ## PART 3: Introduction to Provide
 <img width="957" height="1013" alt="image" src="https://github.com/user-attachments/assets/3722cbf0-c564-48eb-88e5-1a6c8afefbc2" />
+
+<img width="950" height="1010" alt="image" src="https://github.com/user-attachments/assets/2b5e44ad-1fda-46d1-bb69-bfc841d36f21" />
+
