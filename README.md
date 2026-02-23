@@ -12,3 +12,11 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0a36aa0-27af-469a-8da3-175afc7f143e" />
 
 ### PART 2: setState dan Keterbatasannya
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17a213a3-33e7-497c-848a-bbaebb96723e" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02d303c7-96ea-4936-8931-67f45d5d75c8" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec229950-1546-4407-abb3-203cce4eb125" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf3d18fb-15b8-4b19-b8a6-8c7b20824c7f" />
